@@ -1,0 +1,401 @@
+TGitGame
+v7
+r0
+t305780136.406271
+cCheck dependencies
+cProcessInfoPlistFile /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Info.plist GitGame-Info.plist
+cCopyStringsFile /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/neal/Documents/projects/GitGame/English.lproj/MainMenu.xib
+cCompileXIB /Users/neal/Documents/projects/GitGame/GitGameWindowController.xib
+cProcessPCH /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dcvqklrmaxvbxpgwkvakvwltxqkw/GitGame_Prefix.pch.pth GitGame_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/main.o /Users/neal/Documents/projects/GitGame/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameAppDelegate.o /Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameWindowController.o /Users/neal/Documents/projects/GitGame/GitGameWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/BarView.o /Users/neal/Documents/projects/GitGame/BarView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameMenuController.o /Users/neal/Documents/projects/GitGame/GitGameMenuController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/MacOS/GitGame normal x86_64
+cTouch /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BED58FA00000000000000EE
+t1273846010
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/neal/Documents/projects/GitGame/BarView.h
+c000000004C81311200000000000000E0
+t1283535122
+s224
+i<Cocoa/Cocoa.h>
+
+N/Users/neal/Documents/projects/GitGame/BarView.m
+c000000004C81324A000000000000022A
+t1283535434
+s554
+i"BarView.h"
+
+N/Users/neal/Documents/projects/GitGame/English.lproj/InfoPlist.strings
+c000000004C8123C2000000000000002D
+t1283531714
+s45
+
+N/Users/neal/Documents/projects/GitGame/English.lproj/MainMenu.xib
+c000000004C899688000000000000C20D
+t1284085384
+s49677
+
+N/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.h
+c000000004C8123C20000000000000131
+t1283531714
+s305
+i<Cocoa/Cocoa.h>
+
+N/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m
+c000000004C812BCE0000000000000215
+t1283533774
+s533
+i"GitGameAppDelegate.h"
+i"GitGameWindowController.h"
+
+N/Users/neal/Documents/projects/GitGame/GitGameMenuController.h
+c000000004C89994100000000000000F7
+t1284086081
+s247
+i<Cocoa/Cocoa.h>
+
+N/Users/neal/Documents/projects/GitGame/GitGameMenuController.m
+c000000004C899A790000000000000211
+t1284086393
+s529
+i"GitGameMenuController.h"
+i"GitGameWindowController.h"
+
+N/Users/neal/Documents/projects/GitGame/GitGameWindowController.h
+c000000004C899ABA00000000000001C9
+t1284086458
+s457
+i<Cocoa/Cocoa.h>
+i"BarView.h"
+
+N/Users/neal/Documents/projects/GitGame/GitGameWindowController.m
+c000000004C899E650000000000000E5B
+t1284087397
+s3675
+i"GitGameWindowController.h"
+
+N/Users/neal/Documents/projects/GitGame/GitGameWindowController.xib
+c000000004C8988B80000000000006CC1
+t1284081848
+s27841
+
+N/Users/neal/Documents/projects/GitGame/GitGame_Prefix.pch
+c000000004C8123C20000000000000091
+t1283531714
+s145
+i<Cocoa/Cocoa.h>
+
+N/Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app
+t1284087336
+s102
+
+N/Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Info.plist
+t1283532936
+s886
+
+N/Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/MacOS/GitGame
+t1284087336
+s34096
+
+N/Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/PkgInfo
+t1283532936
+s8
+
+N/Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1283532937
+s92
+
+N/Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Resources/English.lproj/MainMenu.nib
+t1284085392
+s6820
+
+N/Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Resources/GitGameWindowController.nib
+t1284081854
+s2298
+
+N/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/BarView.o
+t1283535466
+s13708
+
+N/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGame.LinkFileList
+c000000004C89968F0000000000000251
+t1284085391
+s593
+
+N/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameAppDelegate.o
+t1284086474
+s21064
+
+N/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameMenuController.o
+t1284086474
+s15888
+
+N/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameWindowController.o
+t1284087336
+s36060
+
+N/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/main.o
+t1283534964
+s2224
+
+N/Users/neal/Documents/projects/GitGame/main.m
+c000000004C8123C200000000000000F3
+t1283531714
+s243
+i<Cocoa/Cocoa.h>
+
+N/var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-cjthywkutabvetenepyoaqmjjfeh/GitGame_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dcvqklrmaxvbxpgwkvakvwltxqkw/GitGame_Prefix.pch.pth
+t1283534963
+s7487396
+
+N/var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dlaahiiybyquqxgqdbvgnajirgph/GitGame_Prefix.pch.pth
+t1283533524
+s7481152
+
+N/var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-eesfttbvwyzryncyxkqyowmbkyxp/GitGame_Prefix.pch.gch
+t1283532944
+s54265616
+
+NGitGame-Info.plist
+c000000004C8123C200000000000003EA
+t1283531714
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305780136#305780136#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/BarView.o /Users/neal/Documents/projects/GitGame/BarView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s305228266.169519
+e305228266.220683
+r1
+xCompileC
+xbuild/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/BarView.o
+x/Users/neal/Documents/projects/GitGame/BarView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@56"Compile /Users/neal/Documents/projects/GitGame/BarView.m305228266#305228266#0(0"0(0#0#48"/Users/neal/Documents/projects/GitGame/BarView.m4300911832#1507"    cd /Users/neal/Documents/projects/GitGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-generated-files.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-own-target-headers.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-all-target-headers.hmap -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-project-headers.hmap -F/Users/neal/Documents/projects/GitGame/build/Debug -I/Users/neal/Documents/projects/GitGame/build/Debug/include -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources/x86_64 -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources -include /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dcvqklrmaxvbxpgwkvakvwltxqkw/GitGame_Prefix.pch -c /Users/neal/Documents/projects/GitGame/BarView.m -o /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/BarView.o0#
+
+CCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameAppDelegate.o /Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305225795.533710
+e305225795.902629
+r0
+xCompileC
+xbuild/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameAppDelegate.o
+x/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m: In function '-[GitGameAppDelegate applicationDidFinishLaunching:]':
+o/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:18: warning: passing argument 1 of 'initWithWindowNibName:' from incompatible pointer type
+o/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:18: error: invalid initializer
+o/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:18: error: statically allocated instance of Objective-C class 'GitGameWindowController'
+o/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:18: error: statically allocated instance of Objective-C class 'GitGameWindowController'
+o/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:19: warning: 'GitGameWindowController' may not respond to '-showWindow'
+o/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:19: warning: (Messages without a matching method signature
+o/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:19: warning: will be assumed to return 'id' and accept
+o/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:19: warning: '...' as arguments.)
+o/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:19: error: cannot convert to a pointer type
+lSLF07#2@67"Compile /Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m305225795#305225795#0(1231"/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m: In function '-[GitGameAppDelegate applicationDidFinishLaunching:]':/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:18: warning: passing argument 1 of 'initWithWindowNibName:' from incompatible pointer type/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:18: error: invalid initializer/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:18: error: statically allocated instance of Objective-C class 'GitGameWindowController'/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:18: error: statically allocated instance of Objective-C class 'GitGameWindowController'/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:19: warning: 'GitGameWindowController' may not respond to '-showWindow'/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:19: warning: (Messages without a matching method signature/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:19: warning: will be assumed to return 'id' and accept/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:19: warning: '...' as arguments.)/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m:19: error: cannot convert to a pointer type7(22@77"Passing argument 1 of 'initWithWindowNibName:' from incompatible pointer type305225795#129#151#0(6@59"/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m305225794#18#0#18#0#56"passing argument * of '*' from incompatible pointer type0(4@19"Invalid initializer305225795#280#91#0(6@59"/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m305225794#18#0#18#0#0"0(4@76"Statically allocated instance of Objective-C class 'GitGameWindowController'305225795#371#148#0(6@59"/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m305225794#18#0#18#0#0"0(4@76"Statically allocated instance of Objective-C class 'GitGameWindowController'305225795#519#148#0(6@59"/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m305225794#18#0#18#0#0"0(22@58"'GitGameWindowController' may not respond to '-showWindow'305225795#667#132#0(6@59"/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m305225794#19#0#19#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)305225795#799#119#0(6@59"/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m305225794#19#0#19#0#0"0(4@32"Cannot convert to a pointer type305225795#1127#104#0(6@59"/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m305225794#19#0#19#0#0"0(0#0#59"/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m4300911832#1478"    cd /Users/neal/Documents/projects/GitGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-generated-files.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-own-target-headers.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-all-target-headers.hmap -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-project-headers.hmap -F/Users/neal/Documents/projects/GitGame/build/Debug -I/Users/neal/Documents/projects/GitGame/build/Debug/include -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources/x86_64 -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources -include /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-eesfttbvwyzryncyxkqyowmbkyxp/GitGame_Prefix.pch -c /Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m -o /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameAppDelegate.o1#
+
+CCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameAppDelegate.o /Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s305779274.674609
+e305779274.774226
+r1
+xCompileC
+xbuild/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameAppDelegate.o
+x/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@67"Compile /Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m305779274#305779274#0(0"0(0#0#59"/Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m4300911832#1529"    cd /Users/neal/Documents/projects/GitGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-generated-files.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-own-target-headers.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-all-target-headers.hmap -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-project-headers.hmap -F/Users/neal/Documents/projects/GitGame/build/Debug -I/Users/neal/Documents/projects/GitGame/build/Debug/include -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources/x86_64 -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources -include /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dcvqklrmaxvbxpgwkvakvwltxqkw/GitGame_Prefix.pch -c /Users/neal/Documents/projects/GitGame/GitGameAppDelegate.m -o /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameAppDelegate.o0#
+
+CCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameMenuController.o /Users/neal/Documents/projects/GitGame/GitGameMenuController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s305779274.774435
+e305779274.833152
+r1
+xCompileC
+xbuild/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameMenuController.o
+x/Users/neal/Documents/projects/GitGame/GitGameMenuController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@70"Compile /Users/neal/Documents/projects/GitGame/GitGameMenuController.m305779274#305779274#0(0"0(0#0#62"/Users/neal/Documents/projects/GitGame/GitGameMenuController.m4300911832#1535"    cd /Users/neal/Documents/projects/GitGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-generated-files.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-own-target-headers.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-all-target-headers.hmap -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-project-headers.hmap -F/Users/neal/Documents/projects/GitGame/build/Debug -I/Users/neal/Documents/projects/GitGame/build/Debug/include -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources/x86_64 -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources -include /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dcvqklrmaxvbxpgwkvakvwltxqkw/GitGame_Prefix.pch -c /Users/neal/Documents/projects/GitGame/GitGameMenuController.m -o /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameMenuController.o0#
+
+CCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameWindowController.o /Users/neal/Documents/projects/GitGame/GitGameWindowController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305225744.478328
+e305225744.673657
+r1
+xCompileC
+xbuild/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameWindowController.o
+x/Users/neal/Documents/projects/GitGame/GitGameWindowController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/neal/Documents/projects/GitGame/GitGameWindowController.m305225744#305225744#0(0"0(0#0#64"/Users/neal/Documents/projects/GitGame/GitGameWindowController.m7809643567100341248#1488"    cd /Users/neal/Documents/projects/GitGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-generated-files.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-own-target-headers.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-all-target-headers.hmap -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-project-headers.hmap -F/Users/neal/Documents/projects/GitGame/build/Debug -I/Users/neal/Documents/projects/GitGame/build/Debug/include -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources/x86_64 -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources -include /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-eesfttbvwyzryncyxkqyowmbkyxp/GitGame_Prefix.pch -c /Users/neal/Documents/projects/GitGame/GitGameWindowController.m -o /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameWindowController.o0#
+
+CCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameWindowController.o /Users/neal/Documents/projects/GitGame/GitGameWindowController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s305780136.271474
+e305780136.365232
+r1
+xCompileC
+xbuild/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameWindowController.o
+x/Users/neal/Documents/projects/GitGame/GitGameWindowController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/neal/Documents/projects/GitGame/GitGameWindowController.m:143:8:{143:8-143:22}: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+o         NSLog(_repoToObserve);
+o               ^~~~~~~~~~~~~~
+o1 diagnostic generated.
+lSLF07#2@72"Compile /Users/neal/Documents/projects/GitGame/GitGameWindowController.m305780136#305780136#0(239"/Users/neal/Documents/projects/GitGame/GitGameWindowController.m:143:8:{143:8-143:22}: warning: format string is not a string literal (potentially insecure) [-Wformat-security]         NSLog(_repoToObserve);               ^~~~~~~~~~~~~~1(22@80"Format string is not a string literal (potentially insecure) [-Wformat-security]305780136#0#177#0(6@64"/Users/neal/Documents/projects/GitGame/GitGameWindowController.m305780133#143#8#0#0#0"0(0#0#64"/Users/neal/Documents/projects/GitGame/GitGameWindowController.m4300911832#1539"    cd /Users/neal/Documents/projects/GitGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-generated-files.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-own-target-headers.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-all-target-headers.hmap -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-project-headers.hmap -F/Users/neal/Documents/projects/GitGame/build/Debug -I/Users/neal/Documents/projects/GitGame/build/Debug/include -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources/x86_64 -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources -include /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dcvqklrmaxvbxpgwkvakvwltxqkw/GitGame_Prefix.pch -c /Users/neal/Documents/projects/GitGame/GitGameWindowController.m -o /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGameWindowController.o0#
+
+CCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/main.o /Users/neal/Documents/projects/GitGame/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305225744.162711
+e305225744.531049
+r1
+xCompileC
+xbuild/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/main.o
+x/Users/neal/Documents/projects/GitGame/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/neal/Documents/projects/GitGame/main.m305225744#305225744#0(0"0(0#0#45"/Users/neal/Documents/projects/GitGame/main.m4300911832#1450"    cd /Users/neal/Documents/projects/GitGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-generated-files.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-own-target-headers.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-all-target-headers.hmap -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-project-headers.hmap -F/Users/neal/Documents/projects/GitGame/build/Debug -I/Users/neal/Documents/projects/GitGame/build/Debug/include -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources/x86_64 -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources -include /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-eesfttbvwyzryncyxkqyowmbkyxp/GitGame_Prefix.pch -c /Users/neal/Documents/projects/GitGame/main.m -o /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/main.o /Users/neal/Documents/projects/GitGame/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s305227763.974964
+e305227764.017635
+r1
+xCompileC
+xbuild/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/main.o
+x/Users/neal/Documents/projects/GitGame/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@53"Compile /Users/neal/Documents/projects/GitGame/main.m305227763#305227764#0(0"0(0#0#45"/Users/neal/Documents/projects/GitGame/main.m4300911832#1501"    cd /Users/neal/Documents/projects/GitGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-generated-files.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-own-target-headers.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-all-target-headers.hmap -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-project-headers.hmap -F/Users/neal/Documents/projects/GitGame/build/Debug -I/Users/neal/Documents/projects/GitGame/build/Debug/include -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources/x86_64 -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources -include /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dcvqklrmaxvbxpgwkvakvwltxqkw/GitGame_Prefix.pch -c /Users/neal/Documents/projects/GitGame/main.m -o /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/neal/Documents/projects/GitGame/English.lproj/MainMenu.xib
+s305778191.820284
+e305778192.031859
+r1
+xCompileXIB
+x/Users/neal/Documents/projects/GitGame/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib305778191#305778192#0(0"0(0#0#65"/Users/neal/Documents/projects/GitGame/English.lproj/MainMenu.xib4300911832#327"    cd /Users/neal/Documents/projects/GitGame    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Resources/English.lproj/MainMenu.nib /Users/neal/Documents/projects/GitGame/English.lproj/MainMenu.xib0#
+
+CCompileXIB /Users/neal/Documents/projects/GitGame/GitGameWindowController.xib
+s305774654.157419
+e305774654.418294
+r1
+xCompileXIB
+x/Users/neal/Documents/projects/GitGame/GitGameWindowController.xib
+lSLF07#2@38"CompileXIB GitGameWindowController.xib305774654#305774654#0(0"0(0#0#66"/Users/neal/Documents/projects/GitGame/GitGameWindowController.xib4300911832#329"    cd /Users/neal/Documents/projects/GitGame    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Resources/GitGameWindowController.nib /Users/neal/Documents/projects/GitGame/GitGameWindowController.xib0#
+
+CCopyStringsFile /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s305225736.851947
+e305225737.295800
+r1
+xCopyStringsFile
+x/Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings305225736#305225737#0(0"0(0#0#70"/Users/neal/Documents/projects/GitGame/English.lproj/InfoPlist.strings32370073300369512#365"    cd /Users/neal/Documents/projects/GitGame    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Resources/English.lproj0#
+
+CLd /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/MacOS/GitGame normal x86_64
+s305780136.365330
+e305780136.402425
+r1
+xLd
+x/Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/MacOS/GitGame
+xnormal
+xx86_64
+lSLF07#2@90"Link /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/MacOS/GitGame305780136#305780136#0(0"0(0#0#0"4300911832#540"    cd /Users/neal/Documents/projects/GitGame    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/neal/Documents/projects/GitGame/build/Debug -F/Users/neal/Documents/projects/GitGame/build/Debug -filelist /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/Objects-normal/x86_64/GitGame.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/MacOS/GitGame0#
+
+CProcessInfoPlistFile /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Info.plist GitGame-Info.plist
+s305225736.804099
+e305225736.851785
+r1
+xProcessInfoPlistFile
+x/Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Info.plist
+xGitGame-Info.plist
+lSLF07#2@26"Process GitGame-Info.plist305225736#305225736#0(0"0(0#0#57"/Users/neal/Documents/projects/GitGame/GitGame-Info.plist13229766294700130#310"    cd /Users/neal/Documents/projects/GitGame    builtin-infoPlistUtility GitGame-Info.plist -genpkginfo /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-cjthywkutabvetenepyoaqmjjfeh/GitGame_Prefix.pch.pth GitGame_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dcvqklrmaxvbxpgwkvakvwltxqkw/GitGame_Prefix.pch.pth GitGame_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s305227762.747923
+e305227763.974844
+r1
+xProcessPCH
+x/var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dcvqklrmaxvbxpgwkvakvwltxqkw/GitGame_Prefix.pch.pth
+xGitGame_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@29"Precompile GitGame_Prefix.pch305227762#305227763#0(0"0(0#0#57"/Users/neal/Documents/projects/GitGame/GitGame_Prefix.pch4300911832#1407"    cd /Users/neal/Documents/projects/GitGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-generated-files.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-own-target-headers.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-all-target-headers.hmap -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-project-headers.hmap -F/Users/neal/Documents/projects/GitGame/build/Debug -I/Users/neal/Documents/projects/GitGame/build/Debug/include -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources/x86_64 -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources -c /Users/neal/Documents/projects/GitGame/GitGame_Prefix.pch -o /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dcvqklrmaxvbxpgwkvakvwltxqkw/GitGame_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dlaahiiybyquqxgqdbvgnajirgph/GitGame_Prefix.pch.pth GitGame_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s305226324.076690
+e305226324.988900
+r1
+xProcessPCH
+x/var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dlaahiiybyquqxgqdbvgnajirgph/GitGame_Prefix.pch.pth
+xGitGame_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@29"Precompile GitGame_Prefix.pch305226324#305226324#0(0"0(0#0#57"/Users/neal/Documents/projects/GitGame/GitGame_Prefix.pch4300911832#1392"    cd /Users/neal/Documents/projects/GitGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-generated-files.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-own-target-headers.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-all-target-headers.hmap -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-project-headers.hmap -F/Users/neal/Documents/projects/GitGame/build/Debug -I/Users/neal/Documents/projects/GitGame/build/Debug/include -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources/x86_64 -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources -c /Users/neal/Documents/projects/GitGame/GitGame_Prefix.pch -o /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-dlaahiiybyquqxgqdbvgnajirgph/GitGame_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-eesfttbvwyzryncyxkqyowmbkyxp/GitGame_Prefix.pch.gch GitGame_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305225737.778380
+e305225744.162501
+r1
+xProcessPCH
+x/var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-eesfttbvwyzryncyxkqyowmbkyxp/GitGame_Prefix.pch.gch
+xGitGame_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile GitGame_Prefix.pch305225737#305225744#0(0"0(0#0#57"/Users/neal/Documents/projects/GitGame/GitGame_Prefix.pch4300911832#1356"    cd /Users/neal/Documents/projects/GitGame    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-generated-files.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-own-target-headers.hmap -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-all-target-headers.hmap -iquote /Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/GitGame-project-headers.hmap -F/Users/neal/Documents/projects/GitGame/build/Debug -I/Users/neal/Documents/projects/GitGame/build/Debug/include -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources/x86_64 -I/Users/neal/Documents/projects/GitGame/build/GitGame.build/Debug/GitGame.build/DerivedSources -c /Users/neal/Documents/projects/GitGame/GitGame_Prefix.pch -o /var/folders/k0/k0daNFZzEZO1UFK4UZU+UU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GitGame_Prefix-eesfttbvwyzryncyxkqyowmbkyxp/GitGame_Prefix.pch.gch0#
+
+CTouch /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app
+s305780136.402532
+e305780136.406187
+r1
+xTouch
+x/Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app
+lSLF07#2@68"Touch /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app305780136#305780136#0(0"0(0#0#0"4300911832#131"    cd /Users/neal/Documents/projects/GitGame    /usr/bin/touch -c /Users/neal/Documents/projects/GitGame/build/Debug/GitGame.app0#
+
